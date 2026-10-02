@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+mysql-connector-python
+httpx
+python-multipart
+bcrypt
